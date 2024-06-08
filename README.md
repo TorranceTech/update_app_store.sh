@@ -19,7 +19,7 @@ A simple Bash script to check for updates in the Mac App Store and install them 
 
 Open your terminal and run:
 ```sh
-brew install mas
+brew install mas-cli
 ```
 ### 2. Download the Script
 Save the following script as `update_app_store.sh`:
